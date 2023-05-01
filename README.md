@@ -1,4 +1,4 @@
-# V380-remote-stream
+# V380-remote
 V380 camera remote shell access and stream forwarder with built-in BusyBox netcat command, Without installing and compiling any extra applications 
 
 # Usage
